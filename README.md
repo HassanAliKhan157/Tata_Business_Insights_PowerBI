@@ -61,7 +61,7 @@ Countries such as the Netherlands, Ireland, Germany, and France emerged as stron
 _View the top 10 customers by revenue, showing the highest revenue-generating customer first._
 
 **Insights:**  
-The analysis reveals minimal difference in revenue between the top 10 customers. The highest revenue-generating customer purchased only 17% more than the second-highest, indicating the business is not overly reliant on a small group of customers. This reflects low customer bargaining power, which is favorable for the business.
+The analysis reveals minimal difference in revenue between the top 10 customers. The highest revenue-generating customer purchased only 7% more than the second-highest, indicating the business is not overly reliant on a small group of customers. This reflects low customer bargaining power, which is favorable for the business.
 
 **Visualization Type:** Column Chart
 
